@@ -116,16 +116,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.314891"
-     inkscape:cx="175.33445"
-     inkscape:cy="501.50744"
+     inkscape:zoom="1.1574455"
+     inkscape:cx="161.08061"
+     inkscape:cy="701.48686"
      inkscape:current-layer="layer2"
      id="namedview3806"
      showgrid="true"
      units="in"
-     inkscape:window-width="1782"
+     inkscape:window-width="1920"
      inkscape:window-height="1061"
-     inkscape:window-x="1916"
+     inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -473,5 +473,20 @@
            height="124.62772"
            x="855.28821"
            y="612.45135" /></flowRegion><flowPara
-         id="flowPara5533" /></flowRoot>  </g>
+         id="flowPara5533" /></flowRoot>    <image
+       y="416.25"
+       x="135"
+       id="image3225"
+       xlink:href="file:///C:/Users/JKoberg/Documents/bitcoin%20bill/public_qr.png"
+       height="90"
+       width="90" />
+    <image
+       y="-292.5"
+       x="-236.25"
+       id="image3236"
+       xlink:href="file:///C:/Users/JKoberg/Documents/bitcoin%20bill/public_qr.png"
+       height="90"
+       width="90"
+       transform="scale(-1,-1)" />
+  </g>
 </svg>
